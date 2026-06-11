@@ -69,7 +69,7 @@ superstore-sales-analysis/
 ### Drillthrough — Region Detail
 ![Region Detail](dashboard/screenshots/6-region-detail-drillthrough.png)
 
-### Row-Level Security (View as West Manager)
+### Row-Level Security (View as Central Manager)
 ![RLS West Manager](dashboard/screenshots/7-rls-west-manager.png)
 
 ## Catatan Metodologi
