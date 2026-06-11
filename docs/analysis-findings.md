@@ -17,7 +17,7 @@ Benang merah seluruh analisis: **margin yang rapuh dan ketimpangan geografis** �
 | 2016  | 609,205       | 81,795       | 13.43%        |
 | 2017  | 733,215       | 93,439       | 12.74%        |
 
-**Temuan:** Revenue tumbuh 55.83% dari 2014 ke 2017, tetapi profit margin tidak stabil — memuncak di 2016 (13.43%) lalu turun di 2017 (12.74%) justru saat revenue tertinggi. Pertumbuhan revenue tidak berbanding lurus dengan profitabilitas; ada inefisiensi yang perlu diinvestigasi.
+**Temuan:** Revenue tumbuh 51.41% dari 2014 ke 2017, tetapi profit margin tidak stabil — memuncak di 2016 (13.43%) lalu turun di 2017 (12.74%) justru saat revenue tertinggi. Pertumbuhan revenue tidak berbanding lurus dengan profitabilitas; ada inefisiensi yang perlu diinvestigasi.
 
 ---
 
