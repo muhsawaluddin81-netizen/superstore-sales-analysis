@@ -6,7 +6,7 @@ Proyek analisis data *end-to-end* yang menggunakan **PostgreSQL** dan **Power BI
 
 ## Latar Belakang
 
-Revenue Superstore tumbuh **55.83%** dari 2014 ke 2017, tetapi profit margin justru **tidak stabil** dan turun di tahun terakhir saat revenue tertinggi. Proyek ini menelusuri *kenapa* — dari level kategori, diskon, hingga region — dan mengukur potensi perbaikan finansialnya.
+Revenue Superstore tumbuh **51.41%** dari 2014 ke 2017, tetapi profit margin justru **tidak stabil** dan turun di tahun terakhir saat revenue tertinggi. Proyek ini menelusuri *kenapa* — dari level kategori, diskon, hingga region — dan mengukur potensi perbaikan finansialnya.
 
 ## Temuan Kunci
 
