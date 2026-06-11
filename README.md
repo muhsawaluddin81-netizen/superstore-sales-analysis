@@ -70,7 +70,7 @@ superstore-sales-analysis/
 ![Region Detail](dashboard/screenshots/6-region-detail-drillthrough.png)
 
 ### Row-Level Security (View as Central Manager)
-![RLS West Manager](dashboard/screenshots/7-rls-west-manager.png)
+![RLS West Manager](dashboard/screenshots/7-rls-central-manager.png)
 
 ## Catatan Metodologi
 
